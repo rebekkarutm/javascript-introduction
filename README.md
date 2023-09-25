@@ -1,5 +1,12 @@
-# JSintro
+# javascript-introduction
+Introduction to javacsript.
 
-Open the site and see how it works, try the buttons and see what they do!
+I used a code from Smári and played around with different effects.
 
-Look at the code in main.js and try to change it. when you have started to read the code there you can check out index.html and style.css to get some context and see what this is all about
+I used VSCode to cedit the code. The biggest challenge was to understand what the code does and where to implement changes. I enjoyed this assignment and learned a bit about javascript. I found it challenging but having a template code to work with was very helpful.
+
+## No special requirements
+
+## Installation
+
+## Configuration
